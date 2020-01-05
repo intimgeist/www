@@ -1,2 +1,0 @@
-# www
-intimgeist website
